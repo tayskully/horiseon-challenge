@@ -1,5 +1,5 @@
 # Module 1 Challenge:
-## HTML CSS Git Challenge: Code Refactor
+# HTML CSS Git Challenge: Code Refactor
 
 This challenge was to clean up the html code of html and css code of a working webpage, to make the page optimized for search engines, and to bring the page up to accessibility standards with alt attributes.
 
