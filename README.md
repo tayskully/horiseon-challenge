@@ -15,12 +15,15 @@ You may scroll up and down on this page, click the links to jump to the content 
 
 The collaborators on this project include me, myself, and Taylor
 @tayskully 
- third-party assets
+
+The code was sourced for the code refracting challenge from https://github.com/coding-boot-camp/urban-octo-telegram
+ 
  Tutorials followed include Columbia University EdX's Coding Bootcamp 2023, as well as:  
  [Github Docs](https://docs.github.com/en)  
  [developer mozilla](https://developer.mozilla.org/en-US/)  
  [Dev.to](https://dev.to/)  
  [Code Academy blogs](https://www.codecademy.com/resources/blog/)  
+ [W3 Schools] (https://www.w3schools.com/)
 
 ---
 
