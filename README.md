@@ -25,5 +25,5 @@ The collaborators on this project include me, myself, and Taylor
 ---
 
 ## Badges
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
